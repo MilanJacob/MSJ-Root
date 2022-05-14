@@ -1,8 +1,2 @@
-<<<<<<< HEAD
-Welcome to Front End programming..
-This is a test change
-Cange 2
-=======
 Welcome to Front End programming.1845
 This is a test change.
->>>>>>> 76fedf191b70a455e2820045edbc0669c35bc4f3
